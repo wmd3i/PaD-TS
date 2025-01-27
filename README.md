@@ -6,12 +6,13 @@ The repo is the official implementation for the paper: [Population Aware Diffusi
 
 
 ## Training and Architecture 
+### PaD-TS training
 <p align="center">
 <img src="./figs/PaD-TS-Training.png"  alt="" align=center />
 </p>
 
 
-
+### Dual-Channel Model Architecture
 <p align="center">
 <img src="./figs/PaD-TS.jpg"  alt="" align=center />
 </p>
@@ -55,7 +56,7 @@ If you find this repo useful, please cite our paper!
 
 
 ## Code 
-Thanks for the open sources papers list which PaD-TS is build on. 
+Thanks for the open sources papers listed below which PaD-TS is build on. 
 
 https://github.com/openai/improved-diffusion/tree/main
 
