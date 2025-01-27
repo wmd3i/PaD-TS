@@ -159,5 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-/improved_diffusion/OUTPUT/
-/improved_diffusion/OUTPUT_prev/
+/OUTPUT/
