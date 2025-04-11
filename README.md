@@ -45,12 +45,17 @@ Long TS Generation Results on Energy dataset. **Bold** font (lower score) indica
 If you find this repo useful, please cite our paper!
 
 ```
-@article{li2025population,
+@article{Li_Meng_Bi_Urnes_Chen_2025,
   title={Population Aware Diffusion for Time Series Generation},
-  author={Li, Yang and Meng, Han and Bi, Zhenyu and Urnes, Ingolv T and Chen, Haipeng},
-  journal={arXiv preprint arXiv:2501.00910},
-  year={2025}
-}
+  volume={39},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/34038},
+  DOI={10.1609/aaai.v39i17.34038},
+  number={17},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  author={Li, Yang and Meng, Han and Bi, Zhenyu and Urnes, Ingolv T. and Chen, Haipeng},
+  year={2025},
+  month={Apr.},
+  pages={18520-18529} }
 ```
 
 
