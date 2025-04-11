@@ -55,7 +55,8 @@ If you find this repo useful, please cite our paper!
   author={Li, Yang and Meng, Han and Bi, Zhenyu and Urnes, Ingolv T. and Chen, Haipeng},
   year={2025},
   month={Apr.},
-  pages={18520-18529} }
+  pages={18520-18529}
+}
 ```
 
 
