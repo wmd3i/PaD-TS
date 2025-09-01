@@ -1,4 +1,4 @@
-# PaD-TS
+# <h1 align="center">PaD-TS</h1>
 
 
 
