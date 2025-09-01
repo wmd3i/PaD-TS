@@ -2,8 +2,7 @@
 
 
 
- [![stars](https://img.shields.io/github/stars/wmd3i/PaD-TS.svg)](https://github.com/wmd3i/PaD-TS)
-[![arXiv](https://img.shields.io/badge/arXiv-2501.00910-b31b1b.svg)](https://arxiv.org/abs/2501.00910)
+<center> [![stars](https://img.shields.io/github/stars/wmd3i/PaD-TS.svg)](https://github.com/wmd3i/PaD-TS) [![arXiv](https://img.shields.io/badge/arXiv-2501.00910-b31b1b.svg)](https://arxiv.org/abs/2501.00910)</center>
 
 
 
