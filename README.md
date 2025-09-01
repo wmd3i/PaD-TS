@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Trustworthy-AI-Group/TransferAttack/stargazers"> <img src="https://img.shields.io/github/stars/wmd3i/PaD-TS style=popout-square" alt="GitHub stars"></a>
+  <a href="https://github.com/Trustworthy-AI-Group/TransferAttack/stargazers"> <img src="https://img.shields.io/github/stars/wmd3i/PaD-TS.svg? style=popout-square" alt="GitHub stars"></a>
   [![arXiv](https://img.shields.io/badge/arXiv-2501.00910-b31b1b.svg)](https://arxiv.org/abs/2501.00910)
 </p>
 
