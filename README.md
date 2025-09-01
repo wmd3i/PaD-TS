@@ -1,5 +1,5 @@
 # PaD-TS
-
+[![arXiv](https://img.shields.io/badge/arXiv-2501.00910-b31b1b.svg)](https://arxiv.org/abs/2501.00910)
 The repo is the official implementation for the paper: [Population Aware Diffusion for Time Series Generation](https://arxiv.org/abs/2501.00910).
 
 **P**opulation-**a**ware **D**iffusion for **T**ime **S**eries **(PaD-TS)** is a new TS generation model that better preserves the population-level properties. The key novelties of PaD-TS include 1) a new training method explicitly incorporating TS population-level property preservation, and 2) a new dual-channel encoder model architecture that better captures the TS data structure.
